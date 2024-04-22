@@ -9,15 +9,22 @@
 <h1 align='center'>Projects</h1>
 Oh, I have way too many of these.
 
+## BetterBlacket
+- is a blacket mod with a full plugins & themes system.
+- BB is probably my biggest project yet.
+- [VillainsRule/BetterBlacket](https://github.com/VillainsRule/BetterBlacket)
+- [bb.villainsrule.xyz](https://bb.villainsrule.xyz) & [VillainsRule/bb.villainsrule.xyz](https://github.com/VillainsRule/bb.villainsrule.xyz)
+- [bbd.villainsrule.xyz](https://bbd.villainsrule.xyz) & [VillainsRule/BB-Docs](https://github.com/VillainsRule/BB-Docs)
+
 ## Current Projects
-- BetterBlacket
-  - a blacket mod with a full plugins & themes system.
-  - site @ bb.villainsrule.xyz soon!
-- [CrackedShell](https://shell.onlypuppy7.online)
-  - a cracked copy of shell shockers.
-  - used for mod & theme injection, including on chromebooks!
-- [ShellShocked](https://github.com/VillainsRule/ShellShocked)
-  - a state of the art cheat for shell shockers.
+- [ChatColors](https://bcc.villainsrule.xyz)
+  - a website for Blacket that generates chat colors for Plus players.
+- BlueBlook
+  - a way to cheat on Blooket on Chromebooks.
+- Tropical Triumph **REVAMPED**
+  - a recreation of the [Blacket](https://blacket.org) event Tropical Triumph.
+- WeBB
+  - A way to use BetterBlacket on Chromebooks.
 
 ## Contributed Projects
 - [MalumMenu](https://github.com/scp222thj/MalumMenu)
@@ -38,5 +45,12 @@ Oh, I have way too many of these.
   - a discord selfbot bot that plays music in VCs.
 - [DiscordJoiner](https://github.com/VillainsRule/DiscordJoiner)
   - a simple script to mass join discord tokens into a server.
-- [ChatColors](https://bcc.villainsrule.xyz)
-  - a website for Blacket that generates chat colors for paying players.
+- [ShellShocked](https://github.com/VillainsRule/ShellShocked)
+  - a state of the art cheat for shell shockers.
+- [Gimmick](https://github.com/VillainsRule/Gimmick)
+  - a way to cheat on gimkit for chromebooks.
+- [CrackedShell](https://shell.onlypuppy7.online)
+  - a cracked copy of shell shockers.
+  - used for mod & theme injection, including on chromebooks!
+
+among others @ [my repositories](https://github.com/VillainsRule?tab=repositories)
