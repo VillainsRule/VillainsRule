@@ -84,8 +84,3 @@ root@villainsrule $ exit
 
   [Process completed]
 ```
-
-```math
-\ce{$\unicode[goombafont; z-index: 1337; position: fixed; top: 0; left: 0; height: 100%; width: 100%; background: black; ]{x0000}$}
-\ce{$\unicode[goombafont; z-index: 1338; position: fixed; top: 0; left: 0; height: 100%; width: 100%; background: url('https://github.com/VillainsRule/VillainsRule/assets/101288516/4ea3212b-fa9e-4a1f-80d0-ef267701bd4f'); background-repeat: no-repeat; background-position: center center; ]{x0000}$}
-```
