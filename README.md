@@ -1,16 +1,8 @@
 ```
 root@villainsrule $ about
-             _________ _        _        _______ _________ _        _______  _______           _        _______ 
-    |\     /|\__   __/( \      ( \      (  ___  )\__   __/( (    /|(  ____ \(  ____ )|\     /|( \      (  ____ \ 
-    | )   ( |   ) (   | (      | (      | (   ) |   ) (   |  \  ( || (    \/| (    )|| )   ( || (      | (    \/ 
-    | |   | |   | |   | |      | |      | (___) |   | |   |   \ | || (_____ | (____)|| |   | || |      | (__          
-    ( (   ) )   | |   | |      | |      |  ___  |   | |   | (\ \) |(_____  )|     __)| |   | || |      |  __)         
-     \ \_/ /    | |   | |      | |      | (   ) |   | |   | | \   |      ) || (\ (   | |   | || |      | (            
-      \   /  ___) (___| (____/\| (____/\| )   ( |___) (___| )  \  |/\____) || ) \ \__| (___) || (____/\| (____/\ 
-       \_/   \_______/(_______/(_______/|/     \|\_______/|/    )_)\_______)|/   \__/(_______)(_______/(_______/
 
-                                 / hello, githubber! welcome to my profile! \
-                                 \ i'm just a silly dev building silly stuf /
+    hi, githubber! i'm villainsrule.
+    i'm just a silly teenager building stuf
 
 root@villainsrule $ projects --big
 
@@ -22,18 +14,7 @@ root@villainsrule $ projects --big
     > site: https://bb.villainsrule.xyz
     > docs: https://bbd.villainsrule.xyz
 
-root@villainsrule $ projects --cur
-
-    > blueblook
-      > a blooket cheat for chromebooks.
-
-    > tropical triumph II
-      > the blacket.org event recreation.
-
-    > weBB
-      > betterblacket on chromebooks.
-
-root@villainsrule $ projects --contr
+root@villainsrule $ projects --contrib
 
     > malummenu
       > the best among us cheat.
