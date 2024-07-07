@@ -24,6 +24,10 @@ root@villainsrule $ projects --contrib
       > the best shell shockers hack.
       > https://github.com/Hydroflame522/StateFarmClient
 
+    > qbreader
+      > a quizbowl packet reader with multiplayer support.
+      > https://github.com/qbreader/website
+
 root@villainsrule $ projects --all
 
     > discord nuker
@@ -50,11 +54,6 @@ root@villainsrule $ projects --all
     > and so much more!
       > https://github.com/VillainsRule?tab=repositories
       > https://gist.github.com/VillainsRule
-
-root@villainsrule $ projects --pvt
-
-    > shellprint
-      > a generator of shell shockers accounts.
 
 root@villainsrule $ exit
 
