@@ -4,16 +4,6 @@ root@villainsrule $ about
     hi, githubber! i'm villainsrule.
     i'm just a silly teenager building stuf
 
-root@villainsrule $ projects --big
-
-    <> <> <> <> <> betterblacket <> <> <> <> <>
-    is a blacket.org mod with plugins & themes.
-    one of my biggest projects yet. 2k+ lines!!
-
-    > code: https://github.com/VillainsRule/BetterBlacket
-    > site: https://bb.villainsrule.xyz
-    > docs: https://bbd.villainsrule.xyz
-
 root@villainsrule $ projects --contrib
 
     > malummenu
