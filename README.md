@@ -1,56 +1,18 @@
-```
-root@villainsrule $ about
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
+<p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
 
-    hi, githubber! i'm villainsrule.
-    i'm just a silly teenager building stuf
+<p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
 
-root@villainsrule $ projects --contrib
+<p align="center">
+	<a href="https://support.github.com">Contact Support</a> —
+	<a href="https://www.githubstatus.com">GitHub Status</a> —
+	<a href="https://x.com/githubstatus">@githubstatus</a>
+</p>
 
-    > malummenu
-      > the best among us cheat.
-      > https://github.com/scp222thj/MalumMenu
+</p>
 
-    > statefarm client v3
-      > the best shell shockers hack.
-      > https://github.com/Hydroflame522/StateFarmClient
-
-    > qbreader
-      > a quizbowl packet reader with multiplayer support.
-      > https://github.com/qbreader/website
-
-root@villainsrule $ projects --all
-
-    > discord nuker
-      > an actually free & fast discord server nuker. bot OR selfbot!
-      > https://github.com/VillainsRule/Discord-Nuker
-
-    > nyt cheats
-      > cheats for the nyt daily games.
-      > https://github.com/VillainsRule/nyt-cheats
-
-    > blooketflooder
-      > quickly & easily flood blooket games.
-      > https://github.com/VillainsRule/BlooketFlooder
-
-    > mymusic
-      > a discord selfbot bot that plays music in VCs.
-      > https://github.com/VillainsRule/MyMusic
-
-    > crackedshell
-      > a discord selfbot bot that plays music in VCs.
-      > https://shell.onlypuppy7.online
-      > https://github.com/VillainsRule/CrackedShell
-
-    > and so much more!
-      > https://github.com/VillainsRule?tab=repositories
-      > https://gist.github.com/VillainsRule
-
-root@villainsrule $ exit
-
-  Saving session...
-  ...copying shared history...
-  ...saving history...truncating history files...
-  ...completed.
-
-  [Process completed]
-```
+<!--
+    hi ;]
+    inspired from https://github.com/cipherwithadot/cipherwithadot/blob/main/README.MD
+-->
